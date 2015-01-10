@@ -1706,6 +1706,7 @@ class Misspellings(object):
     'existince': ['existence'],
     'exliled': ['exiled'],
     'exludes': ['excludes'],
+    'exlusive': ['exclusive'],
     'exmaple': ['example'],
     'exonorate': ['exonerate'],
     'exoskelaton': ['exoskeleton'],
